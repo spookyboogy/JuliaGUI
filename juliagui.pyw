@@ -530,20 +530,3 @@ if __name__ == '__main__':
 # - Build an exe and app from source when finished
 # - learn the potential for compression and bundling when installing versus
 #   making an executable with spare dll's
-# - kill yourself
-# - clean this shitty thing up
-#### Notes #####
-
-#### os commands ####
-# os.mkdir(path)
-# os.getcwd()
-# os.chdir(path)
-# os.listdir(path)
-# os.exists(path)
-# os.dirname(path)
-# os.remove(path)
-# os.rename(path, name)
-# os.replace(path, name)
-# os.path.isdir(path)
-# os.path.isfile(path)
-#### os commands ####
