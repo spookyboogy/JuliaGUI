@@ -7,7 +7,7 @@ from PIL import Image as Im
 from threading import Thread
 from tkinter import *
 from tkinter import messagebox
-from ttk import *
+from tkinter.ttk import *
 import os
 if __name__ == '__main__': print('Done.')
 
