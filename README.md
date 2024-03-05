@@ -36,11 +36,13 @@ Ensure you have Python installed on your system. If not, download and install it
 
 ### About Julia sets
 
-Informally speaking, normal Julia sets are defined by the holomorphic equaiton: 
+Informally speaking, normal Julia sets are defined by the holomorphic equation: 
 
 $$ {\displaystyle f_{c}(z)=z^{2}+c~,} $$
 
-Where, $$ c = a + bi : \quad -2 \leq a \leq 2 \quad , \quad -2 \leq b \leq 2 $$
+Where, 
+
+$$  c = a + bi : \quad -2 \leq a \leq 2 \quad , \quad -2 \leq b \leq 2 \quad  $$
 
 While those aren't strict ranges, most recognizable Julia sets come from values within that range, as they tend to produce connected Julia sets, which correspond to points within the [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) at the same point (a, bi) in the complex plane. To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
 
@@ -58,7 +60,12 @@ While those aren't strict ranges, most recognizable Julia sets come from values 
 - Export : Export the current image to a format other than .pgm  
 
 
+<details>
+<summary> </summary>
+
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>
+
+</details>
