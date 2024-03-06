@@ -38,11 +38,11 @@ Ensure you have Python installed on your system. If not, download and install it
 
 Informally speaking, normal Julia sets are defined by the holomorphic equation: 
 
-$$ {\displaystyle f_{c}(z)=z^{2}+c~,} $$
+$$ {\displaystyle f_{c}(z)=z^{2}+c~, \quad c \in \mathbb{C} } $$
 
 Where, 
 
-$$  c = a + bi : \quad -2 \leq a \leq 2 \quad , \quad -2 \leq b \leq 2 \quad  $$
+$$  c = a + ib : \quad -2 \leq a \leq 2, \quad -2 \leq b \leq 2, \quad a,b \in \mathbb{R} $$
 
 While those aren't strict ranges, most recognizable Julia sets come from values within that range, as they tend to produce connected Julia sets, which correspond to points within the [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) at the same point (a, bi) in the complex plane. To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
 
