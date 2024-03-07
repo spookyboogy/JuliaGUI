@@ -50,6 +50,8 @@ While those aren't strict ranges for a and b, most recognizable Julia sets come 
 
 The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) acts as a parameter space for or an index of Julia sets. Each point in the Mandelbrot set corresponds to a different Julia set. If a point in the Mandelbrot set corresponds to a connected Julia set, then the Julia set is said to be in the Mandelbrot set.
 
+![alt](screenshots/.thumbnails/mandelbrot-parameter-space_small.png) ![alt](screenshots/.thumbnails/mandelbrot-parameter-space-2_small.jpeg)
+
 To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
 
 
