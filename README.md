@@ -44,9 +44,9 @@ Where,
 
 $$  c = a + ib : \quad -2 \leq a \leq 2, \quad -2 \leq b \leq 2, \quad a,b \in \mathbb{R} $$
 
-The Julia set associated with a particular complex number $ {c} $ is the boundary separating the set of points in the complex plane that remain bounded under iteration of the function $ { f_{c}(z) } $  from those that tend toward infinity.
+The Julia set associated with a particular complex number c is the boundary separating the set of points in the complex plane that remain bounded under iteration of the function from those that tend toward infinity.
 
-While those aren't strict ranges for $ {a} $ and $ {b} $ , most recognizable Julia sets come from values within that range, as they tend to correspond to connected Julia sets. When a Julia set is connected, it implies a higher degree of stability in the behavior of the iterated function $ { f_{c}(z) } $ .
+While those aren't strict ranges for a and b, most recognizable Julia sets come from values within that range, as they tend to correspond to connected Julia sets. When a Julia set is connected, it implies a higher degree of stability in the behavior of the iterated function.
 
 The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) acts as a parameter space for or an index of Julia sets. Each point in the Mandelbrot set corresponds to a different Julia set. If a point in the Mandelbrot set corresponds to a connected Julia set, then the Julia set is said to be in the Mandelbrot set.
 
@@ -65,14 +65,3 @@ To learn more about these fascinating mathematical objects, check out the [Julia
 - ---> : Go to the next image, higher level of zoom, if it exists
 - Random : Selects random values for a and b and triggers a redraw
 - Export : Export the current image to a format other than .pgm  
-
-
-<details>
-<summary> </summary>
-
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
-</details>
