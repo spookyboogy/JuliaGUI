@@ -40,11 +40,19 @@ Informally speaking, normal Julia sets are defined by the holomorphic equation:
 
 $$ {\displaystyle f_{c}(z)=z^{2}+c~, \quad c \in \mathbb{C} } $$
 
-Where, 
+Where,
 
 $$  c = a + ib : \quad -2 \leq a \leq 2, \quad -2 \leq b \leq 2, \quad a,b \in \mathbb{R} $$
 
-While those aren't strict ranges, most recognizable Julia sets come from values within that range, as they tend to produce connected Julia sets, which correspond to points within the [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) at the same point (a, bi) in the complex plane. To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
+The Julia set associated with a particular complex number $ c $ 
+is the boundary separating the set of points in the complex plane that remain bounded under iteration of the function $ f_{c}(z) $ from those that tend toward infinity.
+
+While those aren't strict ranges for $ a $ and $ b $, most recognizable Julia sets come from values within that range, as they tend to correspond to connected Julia sets. When a Julia set is connected, it implies a higher degree of stability in the behavior of the iterated function $ f_{c}(z) $.
+
+The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) acts as a parameter space for or an index of Julia sets. Each point in the Mandelbrot set corresponds to a different Julia set. If a point in the Mandelbrot set corresponds to a connected Julia set, then the Julia set is said to be in the Mandelbrot set.
+
+To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
+
 
 ### Using the control panel
 
