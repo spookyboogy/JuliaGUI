@@ -1,13 +1,11 @@
 # JuliaGUI
-A GUI for interactive generation, display and inspection of Julia set images. 
+A GUI for interactive generation, display and inspection of Julia set images.
 
+[![alt](screenshots/.thumbnails/rabbit1_small.png)](screenshots/rabbit1.png) [![alt](screenshots/.thumbnails/rabbit2_small.png)](screenshots/rabbit2.png) [![alt](screenshots/.thumbnails/rabbit3_small.png)](screenshots/rabbit3.png)
 
+[![alt](screenshots/.thumbnails/dendrite1_small.png)](screenshots/dendrite1.png) [![alt](screenshots/.thumbnails/dendrite2_small.png)](screenshots/dendrite2.png) [![alt](screenshots/.thumbnails/dendrite3_small.png)](screenshots/dendrite3.png)
 
-![alt](screenshots/.thumbnails/rabbit1_small.png) ![alt](screenshots/.thumbnails/rabbit2_small.png) ![alt](screenshots/.thumbnails/rabbit3_small.png) 
-
-![alt](screenshots/.thumbnails/dendrite1_small.png) ![alt](screenshots/.thumbnails/dendrite2_small.png) ![alt](screenshots/.thumbnails/dendrite3_small.png) 
-
-![alt](screenshots/.thumbnails/dragon1_small.png) ![alt](screenshots/.thumbnails/dragon2_small.png) ![alt](screenshots/.thumbnails/dragon3_small.png) 
+[![alt](screenshots/.thumbnails/dragon1_small.png)](screenshots/dragon1.png) [![alt](screenshots/.thumbnails/dragon2_small.png)](screenshots/dragon2.png) [![alt](screenshots/.thumbnails/dragon3_small.png)](screenshots/dragon3.png)
 
 
 ### Installation & Usage
@@ -50,7 +48,7 @@ While those aren't strict ranges for a and b, most recognizable Julia sets come 
 
 The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) acts as a parameter space for or an index of Julia sets. Each point in the Mandelbrot set corresponds to a different Julia set. If a point in the Mandelbrot set corresponds to a connected Julia set, then the Julia set is said to be in the Mandelbrot set.
 
-![alt](screenshots/.thumbnails/mandelbrot-parameter-space_small.png) ![alt](screenshots/.thumbnails/mandelbrot-parameter-space-2_small.jpeg)
+[![alt](screenshots/.thumbnails/mandelbrot-parameter-space_small.png)](screenshots/mandelbrot-parameter-space.png) [![alt](screenshots/.thumbnails/mandelbrot-parameter-space-2_small.jpeg)](screenshots/mandelbrot-parameter-space-2.jpeg)
 
 To learn more about these fascinating mathematical objects, check out the [Julia set wikipedia page](https://en.wikipedia.org/wiki/Julia_set) :)
 
