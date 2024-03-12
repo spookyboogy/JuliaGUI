@@ -1,11 +1,11 @@
 # JuliaGUI
 A GUI for interactive generation, display and inspection of Julia set images.
 
-[![alt](screenshots/.thumbnails/rabbit1_small.png)](screenshots/rabbit1.png) [![alt](screenshots/.thumbnails/rabbit2_small.png)](screenshots/rabbit2.png) [![alt](screenshots/.thumbnails/rabbit3_small.png)](screenshots/rabbit3.png)
+[![rabbit1](screenshots/.thumbnails/rabbit1_small.png)](screenshots/rabbit1.png) [![rabbit2](screenshots/.thumbnails/rabbit2_small.png)](screenshots/rabbit2.png) [![rabbit3](screenshots/.thumbnails/rabbit3_small.png)](screenshots/rabbit3.png)
 
-[![alt](screenshots/.thumbnails/dendrite1_small.png)](screenshots/dendrite1.png) [![alt](screenshots/.thumbnails/dendrite2_small.png)](screenshots/dendrite2.png) [![alt](screenshots/.thumbnails/dendrite3_small.png)](screenshots/dendrite3.png)
+[![dendrite1](screenshots/.thumbnails/dendrite1_small.png)](screenshots/dendrite1.png) [![dendrite2](screenshots/.thumbnails/dendrite2_small.png)](screenshots/dendrite2.png) [![dendrite3](screenshots/.thumbnails/dendrite3_small.png)](screenshots/dendrite3.png)
 
-[![alt](screenshots/.thumbnails/dragon1_small.png)](screenshots/dragon1.png) [![alt](screenshots/.thumbnails/dragon2_small.png)](screenshots/dragon2.png) [![alt](screenshots/.thumbnails/dragon3_small.png)](screenshots/dragon3.png)
+[![dragon1](screenshots/.thumbnails/dragon1_small.png)](screenshots/dragon1.png) [![dragon2](screenshots/.thumbnails/dragon2_small.png)](screenshots/dragon2.png) [![dragon3](screenshots/.thumbnails/dragon3_small.png)](screenshots/dragon3.png)
 
 
 ### Installation & Usage
